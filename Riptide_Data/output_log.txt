@@ -2,33 +2,38 @@ Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
-    Vendor:   Intel
-    VRAM:     2111 MB
-    Driver:   22.20.16.4799
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4463
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Git Projects\riptide\Riptide_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Git Projects\riptide\Riptide_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Git Projects\riptide\Riptide_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Git Projects\riptide\Riptide_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Git Projects\riptide\Riptide_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Git Projects\riptide\Riptide_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Git Projects\riptide\Riptide_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Git Projects\riptide\Riptide_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Git Projects\riptide\Riptide_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Git Projects\riptide\Riptide_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.021 seconds
-Platform assembly: C:\Git Projects\riptide\Riptide_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Git Projects\riptide\Riptide_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+Platform assembly: S:\Projects\riptide\Riptide_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading S:\Projects\riptide\Riptide_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: S:\Projects\riptide\Riptide_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading S:\Projects\riptide\Riptide_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: S:\Projects\riptide\Riptide_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading S:\Projects\riptide\Riptide_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: S:\Projects\riptide\Riptide_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading S:\Projects\riptide\Riptide_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: S:\Projects\riptide\Riptide_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading S:\Projects\riptide\Riptide_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: S:\Projects\riptide\Riptide_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: S:\Projects\riptide\Riptide_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.252143 ms
+UnloadTime: 0.887100 ms
 Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.252800 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 323.
+Total: 0.219500 ms (FindLiveObjects: 0.021600 ms CreateObjectMapping: 0.010100 ms MarkObjects: 0.170800 ms  DeleteObjects: 0.016300 ms)
 
 Hit
  
@@ -38,13 +43,11 @@ Hit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.292800 ms
 
-Hit
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 323.
+Total: 0.206000 ms (FindLiveObjects: 0.027300 ms CreateObjectMapping: 0.011800 ms MarkObjects: 0.148400 ms  DeleteObjects: 0.017500 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1d84 -> priority: 1 
+  Thread -> id: 6808 -> priority: 1 
